@@ -32,3 +32,7 @@ and i will try to re-visit it.
 Merging the branches together gives you the functionality of both.
 The diagram is because instead of having just one parent, a merged file
 has at least 2 parents.
+
+
+	What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Git's automatic merging is faster, but can be quite slow when there are conflicts
