@@ -11,3 +11,13 @@ automatically stay up-to-date with your remote repository?
 ~ Changes might not be do exactly what you want
 ~ Some changes are presonal and you wont want it going out there
 ~ Might want to save some Memory space
+
+
+Describe the differences between forks, clones, and branches.  
+When would you use one instead of another?
+~ Forks is cloning from someone's github to your github.
+~ Clone is copying or downloading a repository from github to PC
+~ branches are commit nodes
+
+~ you'll use fork when you want to make changes with full permission of a repository
+~ you'll use clone when you want to edit on your PC too
