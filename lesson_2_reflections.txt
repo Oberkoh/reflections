@@ -23,3 +23,12 @@ perfectly, but at the same time you want to keep an open mind ... cooool!
 	How do the diagrams help you visualize the branch structure?
 Diagrams helped me to easily identify the parent commit, the unreachable commit,
 and understand the detached head statement
+
+
+	What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+Truth is i wasnt able to merge due to the conflict problem. i know the steps,
+and i will try to re-visit it.
+Merging the branches together gives you the functionality of both.
+The diagram is because instead of having just one parent, a merged file
+has at least 2 parents.
