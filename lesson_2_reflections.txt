@@ -18,3 +18,8 @@ How would branches help?
 Branches can help you make an experimental feature, or a new language for your software.
 with branches, you sure do want to keep your current software probably because it works 
 perfectly, but at the same time you want to keep an open mind ... cooool!
+
+
+	How do the diagrams help you visualize the branch structure?
+Diagrams helped me to easily identify the parent commit, the unreachable commit,
+and understand the detached head statement
